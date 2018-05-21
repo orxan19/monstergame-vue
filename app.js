@@ -27,7 +27,7 @@ new Vue({
 			if(this.checkWin()){
 				return;
 			}
-			this.monsterAttack(12, 9);
+			this.monsterAttack(13, 11);
 			this.checkWin();
 
 		},
