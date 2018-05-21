@@ -9,7 +9,7 @@ new Vue({
 		killYouIteration: 0, // Display message when player want to heal many many times
 		specialAttackLimitation: 0,  // Limit for special attack
 		healMax: 17,
-		healMin: 7
+		healMin: 3
 	},
 	methods:{
 		startGame: function(){
